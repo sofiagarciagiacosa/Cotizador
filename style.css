@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(244, 244, 244, 1)!important;
+}
+.cardContainer {
+    background-color: white;
+    border-radius: 30px !important;
+    overflow: hidden;
+}
+.title{
+    font-family: 'Cabin';
+    font-size: 1.40rem;
+    font-weight: bold !important;
+    line-height: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(21, 23, 25, 1) !important;
+}
+.subtitle{
+    font-family: 'Source Sans 3';
+    font-size: 1.10rem;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: rgba(114, 189, 145, 1);
+}
+.cardCotizaciones{
+    background-color: rgba(27, 38, 59, 1);
+    border-radius: 30px;
+    color: white;
+}
+.text{
+    font-family: 'Cabin';
+    font-size: 1.1rem;
+    font-weight: bold ;
+    line-height: 0;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.dolar-valores{
+    font-family: 'Source Sans 3';
+    font-size: 0.9rem;
+    font-weight: medium;
+    line-height: 0;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}
+
+hr {
+    border-width: 2px !important;
+    border-color: white !important;
+}
